@@ -1,0 +1,23 @@
+<package>
+  <description brief="agents_navigation_process_module">
+
+     agents_navigation_process_module
+
+  </description>
+  <author>yazdani</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/agents_navigation_process_module</url>
+  <depend package="move_base_msgs"/>
+  <depend package="actionlib_lisp"/>
+  <depend package="cram_process_modules"/>
+  <depend package="cram_designators"/>
+  <depend package="cram_reasoning"/>
+  <depend package="roslisp_utilities"/>
+  <depend package="cram_roslisp_common"/>
+  <depend package="cram_plan_failures"/>
+  <depend package="cram_plan_knowledge"/>
+
+</package>
+
+
